@@ -1,0 +1,14 @@
+.header__search {
+    background-image: url(../../../images/search.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: white;
+    background-size: auto;
+    border: none;
+    flex: 0 0 33.333%;
+    cursor: pointer;
+}
+
+.header__search:focus {
+    outline-style: none;
+}

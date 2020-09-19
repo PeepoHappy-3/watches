@@ -1,0 +1,8 @@
+.header__backet {
+    position: relative;
+    flex: 0 0 33.333%;
+    background-image: url(../../../images/backet.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-decoration: none;
+}

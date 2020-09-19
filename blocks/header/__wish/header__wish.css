@@ -1,0 +1,28 @@
+.header__wish {
+    position: relative;
+    background-image: url(../../../images/wish.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    flex: 0 0 33.333%;
+}
+
+.header__wish::after {
+    content: '1';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(0, 25%);
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    color: #000000;
+    background-color: #E6C8B4;
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 8px;
+    line-height: 9px;
+}

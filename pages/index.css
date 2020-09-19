@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Prata&family=Roboto:wght@300;500&display=swap');
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__items/header__items.css);
+@import url(../blocks/header/__backet/header__backet.css);
+@import url(../blocks/header/__search/header__search.css);
+@import url(../blocks/header/__wish/header__wish.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/logo/__place/logo_place_header.css);
+@import url(../blocks/visually-hidden/visually-hidden.css);
+@import url(../blocks/header/__item-icon/header__item-icon.css);
